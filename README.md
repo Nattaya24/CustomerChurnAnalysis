@@ -24,3 +24,10 @@ Develop focused customer retention programs
 - MonthlyCharges: The amount charged to the customer monthly,
 - TotalCharges: The total amount charged to the customer,
 - Churn: Whether the customer churned or not (Yes or No).
+
+## This Notebook Contains
+Machine learning workflow¶
+- EDA(Explotary Data Analytics)
+- data preprocessing and transformations
+- Machine learning model training
+- Model evaluation and selection
